@@ -16,13 +16,13 @@ internal class Program
         Console.WriteLine("* Выполнил: Минуллин Динар Фаатович | АСОиУБ-25-1                         *");
         Console.WriteLine(zv);
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
-        Console.WriteLine("* Написать программу, которая вычисляет выражение 10 / (2 + 3)            *");
+        Console.WriteLine("* Написать программу, которая вычисляет выражение 48/12-48/6/4            *");
         Console.WriteLine("* И печатает результат на экране.                                         *");
         Console.WriteLine("*                                                                         *");
         Console.WriteLine(zv);
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine(zv);
-        Console.WriteLine("* 10 / (2 + 3)                                                            *");
+        Console.WriteLine("* 48/12-48/6/4                                                            *");
         Console.WriteLine(zv);
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine(zv);
