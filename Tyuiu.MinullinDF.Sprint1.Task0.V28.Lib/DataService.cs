@@ -1,5 +1,4 @@
-﻿using tyuiu.cources.programming.interfaces;
-using tyuiu.cources.programming.interfaces.Sprint1;
+﻿using tyuiu.cources.programming.interfaces.Sprint1;
 
 namespace Tyuiu.MinullinDF.Sprint1.Task0.V28.Lib
 {
