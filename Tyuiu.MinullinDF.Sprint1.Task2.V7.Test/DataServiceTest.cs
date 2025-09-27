@@ -11,7 +11,7 @@ namespace Tyuiu.MinullinDF.Sprint1.Task2.V7.Test
             DataService ds = new DataService();
             int x = 1;
             var res = ds.CalculateSquareCircle(x);
-            Assert.AreEqual(3.14, res);
+            Assert.AreEqual(3.142, res);
         }
     }
 }

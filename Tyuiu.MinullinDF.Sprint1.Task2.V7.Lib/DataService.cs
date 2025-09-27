@@ -6,7 +6,7 @@ namespace Tyuiu.MinullinDF.Sprint1.Task2.V7.Lib
     {
         public double CalculateSquareCircle(int value)
         {
-            return 3.14 * value * value;
+            return Math.Round(double.Pi * value * value, 3);
         }
     }
 }
