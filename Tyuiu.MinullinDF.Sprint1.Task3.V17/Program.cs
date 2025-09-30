@@ -10,9 +10,9 @@ internal class Program
         Console.Title = "Спринт #1 | Выполнил: Минуллин Д. Ф. | АСОиУБ-25-1";
         Console.WriteLine(zv);
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: выполняет указанные расчёты и печатает результат на экране        *");
+        Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
         Console.WriteLine("* Задание #3                                                              *");
-        Console.WriteLine("* Вариант #17                                                              *");
+        Console.WriteLine("* Вариант #17                                                             *");
         Console.WriteLine("* Выполнил: Минуллин Динар Фаатович | АСОиУБ-25-1                         *");
         Console.WriteLine(zv);
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
